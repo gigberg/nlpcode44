@@ -1,0 +1,1483 @@
+[
+    {
+        "id": 1378,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "what time is my meeting and at what location"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your meeting is scheduled on the_3rd at 11am"
+            },
+            {
+                "turn": "driver",
+                "utterance": "where is the meeting"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your meeting is in the 100_conference_room"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "monday",
+                        "time": "5pm",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "7pm",
+                        "event": "dinner",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "marie"
+                    },
+                    {
+                        "date": "the_3rd",
+                        "time": "11am",
+                        "event": "meeting",
+                        "agenda": "discuss_the_company_picnic",
+                        "room": "100_conference_room",
+                        "party": "infrastructure_team"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "7pm",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    },
+                    {
+                        "date": "the_4th",
+                        "time": "2pm",
+                        "event": "yoga_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "aunt"
+                    },
+                    {
+                        "date": "the_4th",
+                        "time": "6pm",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "mother"
+                    }
+                ]
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1379,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "who is coming with me to my doctor_appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "ana will be accompanying you to your next doctor_appointment"
+            },
+            {
+                "turn": "driver",
+                "utterance": "what time is my appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your taking_medicine in which father will be accompanying you is at 6pm"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "tuesday",
+                        "time": "2pm",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "the_4th",
+                        "time": "5pm",
+                        "event": "dinner",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "1pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "sunday",
+                        "time": "9am",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "aunt"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "1pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "the_8th",
+                        "time": "7pm",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    },
+                    {
+                        "date": "wednesday",
+                        "time": "3pm",
+                        "event": "meeting",
+                        "agenda": "discuss_the_company_picnic",
+                        "room": "conference_room_102",
+                        "party": "management"
+                    },
+                    {
+                        "date": "wednesday",
+                        "time": "11am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1380,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "what is the date of my next doctor_appointment and who will be attending"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your next doctor_appointment is on the_12th at 11am"
+            },
+            {
+                "turn": "driver",
+                "utterance": "who is attending"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "jon is joining you"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "the_2nd",
+                        "time": "3pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "aunt"
+                    },
+                    {
+                        "date": "the_2nd",
+                        "time": "3pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "9am",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    },
+                    {
+                        "date": "the_18th",
+                        "time": "9am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    },
+                    {
+                        "date": "sunday",
+                        "time": "10am",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    },
+                    {
+                        "date": "the_6th",
+                        "time": "6pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "the_12th",
+                        "time": "11am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "sister"
+                    },
+                    {
+                        "date": "the_10th",
+                        "time": "1pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    }
+                ]
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1381,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set reminder for dinner"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "is there a date or time for dinner that i should add to this reminder"
+            },
+            {
+                "turn": "driver",
+                "utterance": "tomorrow at 7pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "where is the location"
+            },
+            {
+                "turn": "driver",
+                "utterance": "there is no location to add"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "i have set a reminder for dinner at 7pm tomorrow"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1382,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "who is coming to my doctor_appointment with me"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you have two doctor_appointment scheduled on wednesday jon will be attending it with you and on the_8th your aunt will be attending"
+            },
+            {
+                "turn": "driver",
+                "utterance": "at what time are these appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "the swimming_activity on wednesday is at 5pm and the one on the_8th is at 9am"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "the_19th",
+                        "time": "5pm",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "marie"
+                    },
+                    {
+                        "date": "the_7th",
+                        "time": "9am",
+                        "event": "meeting",
+                        "agenda": "sign_the_nda",
+                        "room": "100_conference_room",
+                        "party": "hr"
+                    },
+                    {
+                        "date": "the_3rd",
+                        "time": "1pm",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "tom"
+                    },
+                    {
+                        "date": "the_18th",
+                        "time": "11am",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    },
+                    {
+                        "date": "the_8th",
+                        "time": "1pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "aunt"
+                    },
+                    {
+                        "date": "the_6th",
+                        "time": "2pm",
+                        "event": "swimming_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    },
+                    {
+                        "date": "wednesday",
+                        "time": "5pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "the_16th",
+                        "time": "10am",
+                        "event": "yoga_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "sister"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1383,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i have a meeting at 3pm set a reminder"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "for what date would you like to set the reminder for"
+            },
+            {
+                "turn": "driver",
+                "utterance": "later this week on friday"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "setting a friday reminder of your meeting at 3pm"
+            },
+            {
+                "turn": "driver",
+                "utterance": "ok it is with my boss to go over the budget"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "great i have that meeting scheduled for you"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1384,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set reminder for doctor_appointment for the tenth"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay setting reminder for doctor_appointment on the tenth would you like me to include a time"
+            },
+            {
+                "turn": "driver",
+                "utterance": "yes please 1pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "great i ve set your doctor_appointment for the_12th at 1pm"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "1",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1385,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i d like to set a reminder for my meeting at 2pm later this month please"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "what day of the month would that be on"
+            },
+            {
+                "turn": "driver",
+                "utterance": "it s on the_11th with management to discuss_the_company_picnic"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "what month would that be on"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "1",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1386,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i m taking_medicine on the_7th"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "setting a reminder to take your medicine on the_7th what time should i add"
+            },
+            {
+                "turn": "driver",
+                "utterance": "please set it for 3pm my aunt will also be there"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay setting a reminder to take medicine on the_7th at 3pm with your aunt"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1387,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set reminder to make doctor_appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "what time is your appointment"
+            },
+            {
+                "turn": "driver",
+                "utterance": "my appointment is on the_12th of this month at 10am please set a reminder for that date and time"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay i have set a reminder for the doctor_appointment on the_12th of this month at 10am"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1388,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i need to set a reminder for dinner"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "for what day and time would you like to set this"
+            },
+            {
+                "turn": "driver",
+                "utterance": "it is for monday at 6pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "reminder set for dinner on monday at 6pm is there anything else"
+            },
+            {
+                "turn": "driver",
+                "utterance": "it s on august 8th with tom it s also at 10pm not 6pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "setting a reminder for dinner on monday at 10pm with tom"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1389,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "when is my lab_appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "would you like to know when your lab_appointment is with your sister or with marie"
+            },
+            {
+                "turn": "driver",
+                "utterance": "i want the date and time of each lab_appointment"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your lab_appointment is at 10am on saturday"
+            },
+            {
+                "turn": "driver",
+                "utterance": "who is attending that lab_appointment with me"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your sister is attending your 10am the_17th yoga_activity would you like the information for your monday swimming_activity"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "the_8th",
+                        "time": "5pm",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "saturday",
+                        "time": "10am",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "sister"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "4pm",
+                        "event": "meeting",
+                        "agenda": "go_over_quarterly_report",
+                        "room": "conference_room_50",
+                        "party": "vice_president"
+                    },
+                    {
+                        "date": "saturday",
+                        "time": "5pm",
+                        "event": "meeting",
+                        "agenda": "go_over_quarterly_report",
+                        "room": "conference_room_102",
+                        "party": "vice_president"
+                    },
+                    {
+                        "date": "monday",
+                        "time": "5pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "marie"
+                    },
+                    {
+                        "date": "the_3rd",
+                        "time": "4pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "1pm",
+                        "event": "swimming_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "the_3rd",
+                        "time": "4pm",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1390,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "schedule dinner with my sister please"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "for what date and time"
+            },
+            {
+                "turn": "driver",
+                "utterance": "please set it for the_15th of this month at 2pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "great i have that all set up for you can i help with anything else"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1391,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "please tell me about the time and date my next meeting is scheduled for and what i hope to accomplish it"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your next meeting is tuesday at 10am its purpose is to discuss_the_merger"
+            },
+            {
+                "turn": "driver",
+                "utterance": "where is the location of the meeting"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "the location is the 100_conference_room"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "tuesday",
+                        "time": "10_am",
+                        "event": "meeting",
+                        "agenda": "discuss_the_merger",
+                        "room": "100_conference_room",
+                        "party": "sales_team"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "3_pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "-"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "3_pm",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "-"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "11_am",
+                        "event": "swimming_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "-"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "3_pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "-"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "1_pm",
+                        "event": "dentist",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "-"
+                    }
+                ]
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1392,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set reminder for eye doctor_appointment on the_12th at 3pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay setting reminder for your eye doctor_appointment at 3pm on the_12th"
+            },
+            {
+                "turn": "driver",
+                "utterance": "okay great"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "i am glad i could be of service"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1393,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "schedule my 10am dentist_appointment on friday with my father"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay i have scheduled your dentist_appointment for this friday at 10am with your father anything else i can help with"
+            },
+            {
+                "turn": "driver",
+                "utterance": "list my current schedule"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "current schedule is empty"
+            },
+            {
+                "turn": "driver",
+                "utterance": "list my schedule for friday"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you have a dentist_appointment with your father at 10am on monday"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1394,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i need to take medicine on sunday"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "setting a reminder to take medicine on sunday at what time"
+            },
+            {
+                "turn": "driver",
+                "utterance": "please set it for 10am"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "okay wonderful i just set a reminder for you"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1395,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "i need to know my conference agenda date and who is attending"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your conference is set for monday with your boss to go_over_budget"
+            },
+            {
+                "turn": "driver",
+                "utterance": "great and who all will be there"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "the conference is with your boss"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "monday",
+                        "time": "7pm",
+                        "event": "conference",
+                        "agenda": "go_over_budget",
+                        "room": "conference_room_102",
+                        "party": "boss"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "9am",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "tom"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "7pm",
+                        "event": "dinner",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "the_5th",
+                        "time": "5pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    },
+                    {
+                        "date": "the_13th",
+                        "time": "9am",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    },
+                    {
+                        "date": "saturday",
+                        "time": "9am",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    }
+                ]
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1396,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "make an appointment to reserve conference_room_100 later this week for a meeting"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "what day and time should i set an appointment to reserve the conference room"
+            },
+            {
+                "turn": "driver",
+                "utterance": "monday at 3pm"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "i have made an appointment for monday at 3pm for the meeting"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1397,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set a reminder for the lab request on 12th"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "setting a reminder for lab request on the_12th should i add a time"
+            },
+            {
+                "turn": "driver",
+                "utterance": "11am"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "reminder set for lab request on the_12th at 11am"
+            },
+            {
+                "turn": "driver",
+                "utterance": "that will do thanks"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you are welcome"
+            },
+            {
+                "turn": "driver",
+                "utterance": "nothing else"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "ok"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1398,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "when are we getting together for football and who s coming"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "got it"
+            },
+            {
+                "turn": "driver",
+                "utterance": "when is football and who s coming"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "do you want the information for the football_activity on thursday or friday"
+            },
+            {
+                "turn": "driver",
+                "utterance": "thursday"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "your next swimming_activity is going to be on thursday at 11am with your aunt"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "the_3rd",
+                        "time": "11am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    },
+                    {
+                        "date": "wednesday",
+                        "time": "11am",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "11am",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "aunt"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "2pm",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "9am",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "2pm",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "the_5th",
+                        "time": "11am",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "saturday",
+                        "time": "11am",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1399,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "set an appointment to swim next_week"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "what date and time is your swim appointment"
+            },
+            {
+                "turn": "driver",
+                "utterance": "thursday at 10am please"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "i have added tennis_activity appointment to your calendar at 10pm on thursday"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": []
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1400,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "can you tell me what time my next doctor_appointment is and if anyone is joining me"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you have three appointment scheduled with the doctor one on 5th one on 8th and one on sunday for which one would you like to receive more info"
+            },
+            {
+                "turn": "driver",
+                "utterance": "i want more info for the appointment on 5th"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "yes it is at 3pm with your mother"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "tuesday",
+                        "time": "8pm",
+                        "event": "dinner",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "4pm",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    },
+                    {
+                        "date": "the_13th",
+                        "time": "6pm",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jeff"
+                    },
+                    {
+                        "date": "the_13th",
+                        "time": "7pm",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "the_5th",
+                        "time": "3pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "mother"
+                    },
+                    {
+                        "date": "the_8th",
+                        "time": "10am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "marie"
+                    },
+                    {
+                        "date": "thursday",
+                        "time": "1pm",
+                        "event": "meeting",
+                        "agenda": "go_over_budget",
+                        "room": "conference_room_102",
+                        "party": "sales_team"
+                    },
+                    {
+                        "date": "sunday",
+                        "time": "9am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "brother"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1401,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "what is the date of my optometrist_appointment and who will be attending it"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you have two optometrist_appointment scheduled one on tuesday with alex and the other in the_9th with jon would you like to know the times as well"
+            },
+            {
+                "turn": "driver",
+                "utterance": "no that will be all"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "no problem"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "the_20th",
+                        "time": "2pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "the_8th",
+                        "time": "11am",
+                        "event": "conference",
+                        "agenda": "discuss_dress_code",
+                        "room": "conference_room_100",
+                        "party": "executive_team"
+                    },
+                    {
+                        "date": "tuesday",
+                        "time": "10am",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "alex"
+                    },
+                    {
+                        "date": "the_19th",
+                        "time": "4pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "the_18th",
+                        "time": "10am",
+                        "event": "football_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "mother"
+                    },
+                    {
+                        "date": "the_9th",
+                        "time": "2pm",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "friday",
+                        "time": "7pm",
+                        "event": "dentist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "father"
+                    },
+                    {
+                        "date": "the_17th",
+                        "time": "10am",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "sister"
+                    }
+                ]
+            },
+            "qi": "0",
+            "hi": "0",
+            "kbi": "0"
+        },
+        "HIPosition": []
+    },
+    {
+        "id": 1402,
+        "dialogue": [
+            {
+                "turn": "driver",
+                "utterance": "what is the location date and agenda of my meeting"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "you have two meeting one on the_5th and one on the_7th which one do you want more information about"
+            },
+            {
+                "turn": "driver",
+                "utterance": "the one on the_5th"
+            },
+            {
+                "turn": "assistant",
+                "utterance": "the yoga_activity on the_5th is at conference_room_50 to discuss the quarterly report"
+            }
+        ],
+        "scenario": {
+            "kb": {
+                "items": [
+                    {
+                        "date": "monday",
+                        "time": "10am",
+                        "event": "tennis_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    },
+                    {
+                        "date": "the_17th",
+                        "time": "4pm",
+                        "event": "meeting",
+                        "agenda": "discuss_the_merger",
+                        "room": "100_conference_room",
+                        "party": "infrastructure_team"
+                    },
+                    {
+                        "date": "the_20th",
+                        "time": "7pm",
+                        "event": "doctor_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "the_2nd",
+                        "time": "2pm",
+                        "event": "taking_medicine",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "ana"
+                    },
+                    {
+                        "date": "the_17th",
+                        "time": "1pm",
+                        "event": "yoga_activity",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "mother"
+                    },
+                    {
+                        "date": "the_6th",
+                        "time": "11am",
+                        "event": "optometrist_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "jon"
+                    },
+                    {
+                        "date": "the_18th",
+                        "time": "2pm",
+                        "event": "lab_appointment",
+                        "agenda": "-",
+                        "room": "-",
+                        "party": "martha"
+                    },
+                    {
+                        "date": "the_5th",
+                        "time": "9am",
+                        "event": "meeting",
+                        "agenda": "go_over_quarterly_report",
+                        "room": "conference_room_102",
+                        "party": "hr"
+                    }
+                ]
+            },
+            "qi": "1",
+            "hi": "1",
+            "kbi": "1"
+        },
+        "HIPosition": []
+    }
+]

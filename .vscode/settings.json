@@ -1,0 +1,19 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/home/zhoujiaming/anaconda3/envs/torch190/bin/python",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.executeInFileDir": true,
+    "linting.flake8Enabled": true,
+    "linting.enabled": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        "citod_data/sgdci_template_bak": false,
+        "citod_data/sgdci_templ*?/**": false
+    },
+    "explorerExclude.backup": {}
+}

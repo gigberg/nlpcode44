@@ -1,0 +1,1762 @@
+[
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  },
+  {
+    "sentence": [
+      "Brain",
+      "fog",
+      "and",
+      "decreased",
+      "cognitive",
+      "skills",
+      "."
+    ],
+    "entity": [
+      {
+        "text": [
+          "fog"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "cognitive"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "decreased"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "."
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "skills"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "and"
+        ],
+        "type": "adr"
+      },
+      {
+        "text": [
+          "Brain"
+        ],
+        "type": "adr"
+      }
+    ]
+  }
+]
